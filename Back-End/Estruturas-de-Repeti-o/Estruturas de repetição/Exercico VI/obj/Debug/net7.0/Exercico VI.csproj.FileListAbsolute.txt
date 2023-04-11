@@ -1,0 +1,15 @@
+C:\Users\53844614893\Desktop\Projects\Estruturas-de-Repeti-o\Estruturas de repetição\Exercico VI\bin\Debug\net7.0\Exercico VI.exe
+C:\Users\53844614893\Desktop\Projects\Estruturas-de-Repeti-o\Estruturas de repetição\Exercico VI\bin\Debug\net7.0\Exercico VI.deps.json
+C:\Users\53844614893\Desktop\Projects\Estruturas-de-Repeti-o\Estruturas de repetição\Exercico VI\bin\Debug\net7.0\Exercico VI.runtimeconfig.json
+C:\Users\53844614893\Desktop\Projects\Estruturas-de-Repeti-o\Estruturas de repetição\Exercico VI\bin\Debug\net7.0\Exercico VI.dll
+C:\Users\53844614893\Desktop\Projects\Estruturas-de-Repeti-o\Estruturas de repetição\Exercico VI\bin\Debug\net7.0\Exercico VI.pdb
+C:\Users\53844614893\Desktop\Projects\Estruturas-de-Repeti-o\Estruturas de repetição\Exercico VI\obj\Debug\net7.0\Exercico VI.csproj.AssemblyReference.cache
+C:\Users\53844614893\Desktop\Projects\Estruturas-de-Repeti-o\Estruturas de repetição\Exercico VI\obj\Debug\net7.0\Exercico VI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\53844614893\Desktop\Projects\Estruturas-de-Repeti-o\Estruturas de repetição\Exercico VI\obj\Debug\net7.0\Exercico VI.AssemblyInfoInputs.cache
+C:\Users\53844614893\Desktop\Projects\Estruturas-de-Repeti-o\Estruturas de repetição\Exercico VI\obj\Debug\net7.0\Exercico VI.AssemblyInfo.cs
+C:\Users\53844614893\Desktop\Projects\Estruturas-de-Repeti-o\Estruturas de repetição\Exercico VI\obj\Debug\net7.0\Exercico VI.csproj.CoreCompileInputs.cache
+C:\Users\53844614893\Desktop\Projects\Estruturas-de-Repeti-o\Estruturas de repetição\Exercico VI\obj\Debug\net7.0\Exercico VI.dll
+C:\Users\53844614893\Desktop\Projects\Estruturas-de-Repeti-o\Estruturas de repetição\Exercico VI\obj\Debug\net7.0\refint\Exercico VI.dll
+C:\Users\53844614893\Desktop\Projects\Estruturas-de-Repeti-o\Estruturas de repetição\Exercico VI\obj\Debug\net7.0\Exercico VI.pdb
+C:\Users\53844614893\Desktop\Projects\Estruturas-de-Repeti-o\Estruturas de repetição\Exercico VI\obj\Debug\net7.0\Exercico VI.genruntimeconfig.cache
+C:\Users\53844614893\Desktop\Projects\Estruturas-de-Repeti-o\Estruturas de repetição\Exercico VI\obj\Debug\net7.0\ref\Exercico VI.dll

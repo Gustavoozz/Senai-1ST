@@ -1,0 +1,15 @@
+C:\Users\gusta\OneDrive\Área de Trabalho\Calculadora - SC\bin\Debug\net7.0\Calculadora - SC.exe
+C:\Users\gusta\OneDrive\Área de Trabalho\Calculadora - SC\bin\Debug\net7.0\Calculadora - SC.deps.json
+C:\Users\gusta\OneDrive\Área de Trabalho\Calculadora - SC\bin\Debug\net7.0\Calculadora - SC.runtimeconfig.json
+C:\Users\gusta\OneDrive\Área de Trabalho\Calculadora - SC\bin\Debug\net7.0\Calculadora - SC.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Calculadora - SC\bin\Debug\net7.0\Calculadora - SC.pdb
+C:\Users\gusta\OneDrive\Área de Trabalho\Calculadora - SC\obj\Debug\net7.0\Calculadora - SC.csproj.AssemblyReference.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\Calculadora - SC\obj\Debug\net7.0\Calculadora - SC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\OneDrive\Área de Trabalho\Calculadora - SC\obj\Debug\net7.0\Calculadora - SC.AssemblyInfoInputs.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\Calculadora - SC\obj\Debug\net7.0\Calculadora - SC.AssemblyInfo.cs
+C:\Users\gusta\OneDrive\Área de Trabalho\Calculadora - SC\obj\Debug\net7.0\Calculadora - SC.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\Calculadora - SC\obj\Debug\net7.0\Calculadora - SC.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Calculadora - SC\obj\Debug\net7.0\refint\Calculadora - SC.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Calculadora - SC\obj\Debug\net7.0\Calculadora - SC.pdb
+C:\Users\gusta\OneDrive\Área de Trabalho\Calculadora - SC\obj\Debug\net7.0\Calculadora - SC.genruntimeconfig.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\Calculadora - SC\obj\Debug\net7.0\ref\Calculadora - SC.dll

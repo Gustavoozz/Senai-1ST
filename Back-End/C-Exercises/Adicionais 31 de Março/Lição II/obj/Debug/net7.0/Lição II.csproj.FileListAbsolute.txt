@@ -1,0 +1,15 @@
+C:\Users\53844614893\Desktop\Adicionais 31 de Março\Lição II\bin\Debug\net7.0\Lição II.exe
+C:\Users\53844614893\Desktop\Adicionais 31 de Março\Lição II\bin\Debug\net7.0\Lição II.deps.json
+C:\Users\53844614893\Desktop\Adicionais 31 de Março\Lição II\bin\Debug\net7.0\Lição II.runtimeconfig.json
+C:\Users\53844614893\Desktop\Adicionais 31 de Março\Lição II\bin\Debug\net7.0\Lição II.dll
+C:\Users\53844614893\Desktop\Adicionais 31 de Março\Lição II\bin\Debug\net7.0\Lição II.pdb
+C:\Users\53844614893\Desktop\Adicionais 31 de Março\Lição II\obj\Debug\net7.0\Lição II.csproj.AssemblyReference.cache
+C:\Users\53844614893\Desktop\Adicionais 31 de Março\Lição II\obj\Debug\net7.0\Lição II.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\53844614893\Desktop\Adicionais 31 de Março\Lição II\obj\Debug\net7.0\Lição II.AssemblyInfoInputs.cache
+C:\Users\53844614893\Desktop\Adicionais 31 de Março\Lição II\obj\Debug\net7.0\Lição II.AssemblyInfo.cs
+C:\Users\53844614893\Desktop\Adicionais 31 de Março\Lição II\obj\Debug\net7.0\Lição II.csproj.CoreCompileInputs.cache
+C:\Users\53844614893\Desktop\Adicionais 31 de Março\Lição II\obj\Debug\net7.0\Lição II.dll
+C:\Users\53844614893\Desktop\Adicionais 31 de Março\Lição II\obj\Debug\net7.0\refint\Lição II.dll
+C:\Users\53844614893\Desktop\Adicionais 31 de Março\Lição II\obj\Debug\net7.0\Lição II.pdb
+C:\Users\53844614893\Desktop\Adicionais 31 de Março\Lição II\obj\Debug\net7.0\Lição II.genruntimeconfig.cache
+C:\Users\53844614893\Desktop\Adicionais 31 de Março\Lição II\obj\Debug\net7.0\ref\Lição II.dll

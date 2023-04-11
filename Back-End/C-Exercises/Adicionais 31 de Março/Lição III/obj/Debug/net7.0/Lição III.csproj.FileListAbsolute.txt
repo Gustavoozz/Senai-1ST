@@ -1,0 +1,5 @@
+C:\Users\53844614893\Desktop\Adicionais-31-de-Mar-o\Adicionais 31 de Março\Lição III\obj\Debug\net7.0\Lição III.csproj.AssemblyReference.cache
+C:\Users\53844614893\Desktop\Adicionais-31-de-Mar-o\Adicionais 31 de Março\Lição III\obj\Debug\net7.0\Lição III.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\53844614893\Desktop\Adicionais-31-de-Mar-o\Adicionais 31 de Março\Lição III\obj\Debug\net7.0\Lição III.AssemblyInfoInputs.cache
+C:\Users\53844614893\Desktop\Adicionais-31-de-Mar-o\Adicionais 31 de Março\Lição III\obj\Debug\net7.0\Lição III.AssemblyInfo.cs
+C:\Users\53844614893\Desktop\Adicionais-31-de-Mar-o\Adicionais 31 de Março\Lição III\obj\Debug\net7.0\Lição III.csproj.CoreCompileInputs.cache

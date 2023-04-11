@@ -1,0 +1,15 @@
+C:\Users\53844614893\Desktop\Estruturas de Repetição - Atividade\bin\Debug\net7.0\Estruturas de Repetição - Atividade.exe
+C:\Users\53844614893\Desktop\Estruturas de Repetição - Atividade\bin\Debug\net7.0\Estruturas de Repetição - Atividade.deps.json
+C:\Users\53844614893\Desktop\Estruturas de Repetição - Atividade\bin\Debug\net7.0\Estruturas de Repetição - Atividade.runtimeconfig.json
+C:\Users\53844614893\Desktop\Estruturas de Repetição - Atividade\bin\Debug\net7.0\Estruturas de Repetição - Atividade.dll
+C:\Users\53844614893\Desktop\Estruturas de Repetição - Atividade\bin\Debug\net7.0\Estruturas de Repetição - Atividade.pdb
+C:\Users\53844614893\Desktop\Estruturas de Repetição - Atividade\obj\Debug\net7.0\Estruturas de Repetição - Atividade.csproj.AssemblyReference.cache
+C:\Users\53844614893\Desktop\Estruturas de Repetição - Atividade\obj\Debug\net7.0\Estruturas de Repetição - Atividade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\53844614893\Desktop\Estruturas de Repetição - Atividade\obj\Debug\net7.0\Estruturas de Repetição - Atividade.AssemblyInfoInputs.cache
+C:\Users\53844614893\Desktop\Estruturas de Repetição - Atividade\obj\Debug\net7.0\Estruturas de Repetição - Atividade.AssemblyInfo.cs
+C:\Users\53844614893\Desktop\Estruturas de Repetição - Atividade\obj\Debug\net7.0\Estruturas de Repetição - Atividade.csproj.CoreCompileInputs.cache
+C:\Users\53844614893\Desktop\Estruturas de Repetição - Atividade\obj\Debug\net7.0\Estruturas de Repetição - Atividade.dll
+C:\Users\53844614893\Desktop\Estruturas de Repetição - Atividade\obj\Debug\net7.0\refint\Estruturas de Repetição - Atividade.dll
+C:\Users\53844614893\Desktop\Estruturas de Repetição - Atividade\obj\Debug\net7.0\Estruturas de Repetição - Atividade.pdb
+C:\Users\53844614893\Desktop\Estruturas de Repetição - Atividade\obj\Debug\net7.0\Estruturas de Repetição - Atividade.genruntimeconfig.cache
+C:\Users\53844614893\Desktop\Estruturas de Repetição - Atividade\obj\Debug\net7.0\ref\Estruturas de Repetição - Atividade.dll

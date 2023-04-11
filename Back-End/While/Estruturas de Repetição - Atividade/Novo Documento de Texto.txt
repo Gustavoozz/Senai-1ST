@@ -1,0 +1,1 @@
+char = estado civil

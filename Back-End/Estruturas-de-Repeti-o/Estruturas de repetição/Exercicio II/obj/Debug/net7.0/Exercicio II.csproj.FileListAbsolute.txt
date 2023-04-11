@@ -1,0 +1,15 @@
+C:\Users\53844614893\Desktop\Estruturas de repetição\Exercicio II\bin\Debug\net7.0\Exercicio II.exe
+C:\Users\53844614893\Desktop\Estruturas de repetição\Exercicio II\bin\Debug\net7.0\Exercicio II.deps.json
+C:\Users\53844614893\Desktop\Estruturas de repetição\Exercicio II\bin\Debug\net7.0\Exercicio II.runtimeconfig.json
+C:\Users\53844614893\Desktop\Estruturas de repetição\Exercicio II\bin\Debug\net7.0\Exercicio II.dll
+C:\Users\53844614893\Desktop\Estruturas de repetição\Exercicio II\bin\Debug\net7.0\Exercicio II.pdb
+C:\Users\53844614893\Desktop\Estruturas de repetição\Exercicio II\obj\Debug\net7.0\Exercicio II.csproj.AssemblyReference.cache
+C:\Users\53844614893\Desktop\Estruturas de repetição\Exercicio II\obj\Debug\net7.0\Exercicio II.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\53844614893\Desktop\Estruturas de repetição\Exercicio II\obj\Debug\net7.0\Exercicio II.AssemblyInfoInputs.cache
+C:\Users\53844614893\Desktop\Estruturas de repetição\Exercicio II\obj\Debug\net7.0\Exercicio II.AssemblyInfo.cs
+C:\Users\53844614893\Desktop\Estruturas de repetição\Exercicio II\obj\Debug\net7.0\Exercicio II.csproj.CoreCompileInputs.cache
+C:\Users\53844614893\Desktop\Estruturas de repetição\Exercicio II\obj\Debug\net7.0\Exercicio II.dll
+C:\Users\53844614893\Desktop\Estruturas de repetição\Exercicio II\obj\Debug\net7.0\refint\Exercicio II.dll
+C:\Users\53844614893\Desktop\Estruturas de repetição\Exercicio II\obj\Debug\net7.0\Exercicio II.pdb
+C:\Users\53844614893\Desktop\Estruturas de repetição\Exercicio II\obj\Debug\net7.0\Exercicio II.genruntimeconfig.cache
+C:\Users\53844614893\Desktop\Estruturas de repetição\Exercicio II\obj\Debug\net7.0\ref\Exercicio II.dll

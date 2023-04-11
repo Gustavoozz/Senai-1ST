@@ -1,0 +1,255 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Courier+Prime&family=Open+Sans:wght@300&display=swap');
+
+
+/* font-family: 'Bebas Neue', cursive; */
+/* font-family: 'Courier Prime', monospace; */
+
+
+
+/* Reset de propriedades */
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+
+}
+
+/* Desktop First */
+header #menu-hamburger {
+    display: none;
+}
+
+
+
+/* Centralizar conteúdos */
+.layout-grid {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    /* border: 3px solid green; */
+    height: 100%;
+}
+
+
+body {
+    font-family: 'Bebas Neue';
+    background-color:white;
+}
+
+
+header nav {
+    /* border: 2px solid white; */
+    width: 600px;
+    justify-content: space-between;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    
+}
+
+
+header {
+    background-color: #F9003D;
+    height: 70px;
+}
+
+/* Flexbox cabeçalho */
+header .header-flex {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+
+
+
+header nav a {
+    font-family: 'Bebas Neue';
+    color: white;
+    text-decoration: none;
+    letter-spacing: 2px;
+    padding: 15px 25px;
+    border-radius: 5px;
+
+}
+
+/* Dev de sistemas */
+h1 {
+    color: white;
+    font-size: 96px;
+    margin: 5px;
+    padding-top: 150px;
+    padding-right: 300px;
+    font-family: 'Bebas Neue';
+    
+}
+
+/* Senai Info */
+h2 {
+    font-size: 53px;
+    color:#F9003D;
+    font-family: 'Courier New', Courier, monospace;
+    padding-top: 40px;
+    padding-right: 50px;
+    text-transform: uppercase;
+}
+
+/* Main */
+main .banner {
+    width: 100%;
+    height: 740px;
+    background-color: white;
+    
+    background-image: url(../assets/assets/images/imagem-fundo-banner.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom;
+}
+
+/* Mouse pass */
+header nav a:hover {
+    background-color: white;
+    color: #F9003D;
+}
+
+
+#Mouse {
+    margin-bottom: 500px;
+    margin-top: 50px;
+    margin-left: 20px;
+}
+
+/* Linha horizontal */
+.banner hr {
+    border: 2px solid #FFAF00;
+    width: 545px;
+}
+
+/* Segunda pág */
+
+h3 {
+    font-family: 'Bebas Neue';
+    color: #F9003D;
+    padding-left: 20px;
+    font-size: 64px;
+    padding-top: 50px;
+}
+
+body {
+    background-color: #080324;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 16px;
+}
+
+.sobre .sobre-flex {
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.sobre .sobre-flex .sobrebox {
+    width: 500px;
+    
+}
+
+.sobre .sobre-flex .participantes {
+    width: 640px;
+    
+}
+
+.sobre h2 {
+    font-family: 'Bebas Neue';
+    font-size: 64px;
+    margin-bottom: 60px;
+}
+
+.participantes h3 {
+    font-size: 24px;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    text-transform: uppercase;
+    margin-top: 140px;
+    margin-left: 20px;
+}
+
+.participantes h4 {
+    font-size: 64px;
+    color: #FFAF00;
+    font-family: 'Bebas Neue';
+    margin-top: 20px;
+    margin-left: 40px;
+}
+
+.participantes p {
+    font-size: 18px;
+    margin-top: 10px;
+    font-family: 'Open Sans';
+    margin-left: 40px;
+    margin-bottom: 150px;
+}
+
+.localbox h3 {
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    font-size: 24px;
+    text-transform: uppercase;
+}
+
+body .info {
+    width: 100%;
+    height: 740px;
+    background-color: white;
+    
+    background-image: url(../assets/assets/images/imagem-fundo-info.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom;
+}
+
+ .info .localbox {
+    box-sizing: border-box;
+    border: 1px solid #A259F7;
+    height: 100px;
+    width: 280px;
+    margin-top: 100px;
+    display: flex;
+    
+}
+
+/* Smartphone */
+@media screen and (max-width: 767px) {
+    main {
+        display: none;
+    }
+
+    header nav {
+        position: fixed;
+        top: 60px;
+        left: 0;
+        width: 80vw;
+        max-width: 360px;
+        height: 100vh;
+    
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        background-color: #F9003D;
+    
+    }
+    
+    header nav a {
+        width: 150px;
+        margin-bottom: 30px;
+        border-left: 2px dashed white;
+        border-radius: 0;
+    }
+    
+    
+    header #menu-hamburger {
+        display: block;
+    }
+}
+
+
+

@@ -1,0 +1,15 @@
+C:\Users\53844614893\Desktop\Menu de bebidas\bin\Debug\net7.0\Menu de bebidas.exe
+C:\Users\53844614893\Desktop\Menu de bebidas\bin\Debug\net7.0\Menu de bebidas.deps.json
+C:\Users\53844614893\Desktop\Menu de bebidas\bin\Debug\net7.0\Menu de bebidas.runtimeconfig.json
+C:\Users\53844614893\Desktop\Menu de bebidas\bin\Debug\net7.0\Menu de bebidas.dll
+C:\Users\53844614893\Desktop\Menu de bebidas\bin\Debug\net7.0\Menu de bebidas.pdb
+C:\Users\53844614893\Desktop\Menu de bebidas\obj\Debug\net7.0\Menu de bebidas.csproj.AssemblyReference.cache
+C:\Users\53844614893\Desktop\Menu de bebidas\obj\Debug\net7.0\Menu de bebidas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\53844614893\Desktop\Menu de bebidas\obj\Debug\net7.0\Menu de bebidas.AssemblyInfoInputs.cache
+C:\Users\53844614893\Desktop\Menu de bebidas\obj\Debug\net7.0\Menu de bebidas.AssemblyInfo.cs
+C:\Users\53844614893\Desktop\Menu de bebidas\obj\Debug\net7.0\Menu de bebidas.csproj.CoreCompileInputs.cache
+C:\Users\53844614893\Desktop\Menu de bebidas\obj\Debug\net7.0\Menu de bebidas.dll
+C:\Users\53844614893\Desktop\Menu de bebidas\obj\Debug\net7.0\refint\Menu de bebidas.dll
+C:\Users\53844614893\Desktop\Menu de bebidas\obj\Debug\net7.0\Menu de bebidas.pdb
+C:\Users\53844614893\Desktop\Menu de bebidas\obj\Debug\net7.0\Menu de bebidas.genruntimeconfig.cache
+C:\Users\53844614893\Desktop\Menu de bebidas\obj\Debug\net7.0\ref\Menu de bebidas.dll
