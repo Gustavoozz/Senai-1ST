@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Arrays Names and Age/1.0.0": {
+        "runtime": {
+          "Arrays Names and Age.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Arrays Names and Age/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\53844614893\Desktop\Arrays Names and Age\bin\Debug\net7.0\Arrays Names and Age.exe
+C:\Users\53844614893\Desktop\Arrays Names and Age\bin\Debug\net7.0\Arrays Names and Age.deps.json
+C:\Users\53844614893\Desktop\Arrays Names and Age\bin\Debug\net7.0\Arrays Names and Age.runtimeconfig.json
+C:\Users\53844614893\Desktop\Arrays Names and Age\bin\Debug\net7.0\Arrays Names and Age.dll
+C:\Users\53844614893\Desktop\Arrays Names and Age\bin\Debug\net7.0\Arrays Names and Age.pdb
+C:\Users\53844614893\Desktop\Arrays Names and Age\obj\Debug\net7.0\Arrays Names and Age.csproj.AssemblyReference.cache
+C:\Users\53844614893\Desktop\Arrays Names and Age\obj\Debug\net7.0\Arrays Names and Age.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\53844614893\Desktop\Arrays Names and Age\obj\Debug\net7.0\Arrays Names and Age.AssemblyInfoInputs.cache
+C:\Users\53844614893\Desktop\Arrays Names and Age\obj\Debug\net7.0\Arrays Names and Age.AssemblyInfo.cs
+C:\Users\53844614893\Desktop\Arrays Names and Age\obj\Debug\net7.0\Arrays Names and Age.csproj.CoreCompileInputs.cache
+C:\Users\53844614893\Desktop\Arrays Names and Age\obj\Debug\net7.0\Arrays Names and Age.dll
+C:\Users\53844614893\Desktop\Arrays Names and Age\obj\Debug\net7.0\refint\Arrays Names and Age.dll
+C:\Users\53844614893\Desktop\Arrays Names and Age\obj\Debug\net7.0\Arrays Names and Age.pdb
+C:\Users\53844614893\Desktop\Arrays Names and Age\obj\Debug\net7.0\Arrays Names and Age.genruntimeconfig.cache
+C:\Users\53844614893\Desktop\Arrays Names and Age\obj\Debug\net7.0\ref\Arrays Names and Age.dll
