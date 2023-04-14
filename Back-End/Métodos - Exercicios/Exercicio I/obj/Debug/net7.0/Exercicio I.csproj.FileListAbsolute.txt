@@ -1,0 +1,15 @@
+C:\Users\53844614893\Desktop\Métodos - Exercicios\Exercicio I\bin\Debug\net7.0\Exercicio I.exe
+C:\Users\53844614893\Desktop\Métodos - Exercicios\Exercicio I\bin\Debug\net7.0\Exercicio I.deps.json
+C:\Users\53844614893\Desktop\Métodos - Exercicios\Exercicio I\bin\Debug\net7.0\Exercicio I.runtimeconfig.json
+C:\Users\53844614893\Desktop\Métodos - Exercicios\Exercicio I\bin\Debug\net7.0\Exercicio I.dll
+C:\Users\53844614893\Desktop\Métodos - Exercicios\Exercicio I\bin\Debug\net7.0\Exercicio I.pdb
+C:\Users\53844614893\Desktop\Métodos - Exercicios\Exercicio I\obj\Debug\net7.0\Exercicio I.csproj.AssemblyReference.cache
+C:\Users\53844614893\Desktop\Métodos - Exercicios\Exercicio I\obj\Debug\net7.0\Exercicio I.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\53844614893\Desktop\Métodos - Exercicios\Exercicio I\obj\Debug\net7.0\Exercicio I.AssemblyInfoInputs.cache
+C:\Users\53844614893\Desktop\Métodos - Exercicios\Exercicio I\obj\Debug\net7.0\Exercicio I.AssemblyInfo.cs
+C:\Users\53844614893\Desktop\Métodos - Exercicios\Exercicio I\obj\Debug\net7.0\Exercicio I.csproj.CoreCompileInputs.cache
+C:\Users\53844614893\Desktop\Métodos - Exercicios\Exercicio I\obj\Debug\net7.0\Exercicio I.dll
+C:\Users\53844614893\Desktop\Métodos - Exercicios\Exercicio I\obj\Debug\net7.0\refint\Exercicio I.dll
+C:\Users\53844614893\Desktop\Métodos - Exercicios\Exercicio I\obj\Debug\net7.0\Exercicio I.pdb
+C:\Users\53844614893\Desktop\Métodos - Exercicios\Exercicio I\obj\Debug\net7.0\Exercicio I.genruntimeconfig.cache
+C:\Users\53844614893\Desktop\Métodos - Exercicios\Exercicio I\obj\Debug\net7.0\ref\Exercicio I.dll
