@@ -1,0 +1,15 @@
+C:\Users\53844614893\Desktop\Array - Desafio\bin\Debug\net7.0\Array - Desafio.exe
+C:\Users\53844614893\Desktop\Array - Desafio\bin\Debug\net7.0\Array - Desafio.deps.json
+C:\Users\53844614893\Desktop\Array - Desafio\bin\Debug\net7.0\Array - Desafio.runtimeconfig.json
+C:\Users\53844614893\Desktop\Array - Desafio\bin\Debug\net7.0\Array - Desafio.dll
+C:\Users\53844614893\Desktop\Array - Desafio\bin\Debug\net7.0\Array - Desafio.pdb
+C:\Users\53844614893\Desktop\Array - Desafio\obj\Debug\net7.0\Array - Desafio.csproj.AssemblyReference.cache
+C:\Users\53844614893\Desktop\Array - Desafio\obj\Debug\net7.0\Array - Desafio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\53844614893\Desktop\Array - Desafio\obj\Debug\net7.0\Array - Desafio.AssemblyInfoInputs.cache
+C:\Users\53844614893\Desktop\Array - Desafio\obj\Debug\net7.0\Array - Desafio.AssemblyInfo.cs
+C:\Users\53844614893\Desktop\Array - Desafio\obj\Debug\net7.0\Array - Desafio.csproj.CoreCompileInputs.cache
+C:\Users\53844614893\Desktop\Array - Desafio\obj\Debug\net7.0\Array - Desafio.dll
+C:\Users\53844614893\Desktop\Array - Desafio\obj\Debug\net7.0\refint\Array - Desafio.dll
+C:\Users\53844614893\Desktop\Array - Desafio\obj\Debug\net7.0\Array - Desafio.pdb
+C:\Users\53844614893\Desktop\Array - Desafio\obj\Debug\net7.0\Array - Desafio.genruntimeconfig.cache
+C:\Users\53844614893\Desktop\Array - Desafio\obj\Debug\net7.0\ref\Array - Desafio.dll

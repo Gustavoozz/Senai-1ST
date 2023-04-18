@@ -1,0 +1,15 @@
+C:\Users\53844614893\Desktop\Imposto de renda -Método\bin\Debug\net7.0\Imposto de renda -Método.exe
+C:\Users\53844614893\Desktop\Imposto de renda -Método\bin\Debug\net7.0\Imposto de renda -Método.deps.json
+C:\Users\53844614893\Desktop\Imposto de renda -Método\bin\Debug\net7.0\Imposto de renda -Método.runtimeconfig.json
+C:\Users\53844614893\Desktop\Imposto de renda -Método\bin\Debug\net7.0\Imposto de renda -Método.dll
+C:\Users\53844614893\Desktop\Imposto de renda -Método\bin\Debug\net7.0\Imposto de renda -Método.pdb
+C:\Users\53844614893\Desktop\Imposto de renda -Método\obj\Debug\net7.0\Imposto de renda -Método.csproj.AssemblyReference.cache
+C:\Users\53844614893\Desktop\Imposto de renda -Método\obj\Debug\net7.0\Imposto de renda -Método.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\53844614893\Desktop\Imposto de renda -Método\obj\Debug\net7.0\Imposto de renda -Método.AssemblyInfoInputs.cache
+C:\Users\53844614893\Desktop\Imposto de renda -Método\obj\Debug\net7.0\Imposto de renda -Método.AssemblyInfo.cs
+C:\Users\53844614893\Desktop\Imposto de renda -Método\obj\Debug\net7.0\Imposto de renda -Método.csproj.CoreCompileInputs.cache
+C:\Users\53844614893\Desktop\Imposto de renda -Método\obj\Debug\net7.0\Imposto de renda -Método.dll
+C:\Users\53844614893\Desktop\Imposto de renda -Método\obj\Debug\net7.0\refint\Imposto de renda -Método.dll
+C:\Users\53844614893\Desktop\Imposto de renda -Método\obj\Debug\net7.0\Imposto de renda -Método.pdb
+C:\Users\53844614893\Desktop\Imposto de renda -Método\obj\Debug\net7.0\Imposto de renda -Método.genruntimeconfig.cache
+C:\Users\53844614893\Desktop\Imposto de renda -Método\obj\Debug\net7.0\ref\Imposto de renda -Método.dll
