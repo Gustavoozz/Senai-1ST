@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v7.0": {
-      "Projeto - Companhia de viagem/1.0.0": {
+      "Calculadora/1.0.0": {
         "runtime": {
-          "Projeto - Companhia de viagem.dll": {}
+          "Calculadora.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Projeto - Companhia de viagem/1.0.0": {
+    "Calculadora/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

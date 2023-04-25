@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\53844614893\\Desktop\\Projeto - Companhia de viagem\\Projeto - Companhia de viagem.csproj",
-      "projectName": "Projeto - Companhia de viagem",
-      "projectPath": "C:\\Users\\53844614893\\Desktop\\Projeto - Companhia de viagem\\Projeto - Companhia de viagem.csproj",
+      "projectUniqueName": "C:\\Users\\53844614893\\Desktop\\Calculadora\\Calculadora.csproj",
+      "projectName": "Calculadora",
+      "projectPath": "C:\\Users\\53844614893\\Desktop\\Calculadora\\Calculadora.csproj",
       "packagesPath": "C:\\Users\\53844614893\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\53844614893\\Desktop\\Projeto - Companhia de viagem\\obj\\",
+      "outputPath": "C:\\Users\\53844614893\\Desktop\\Calculadora\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\53844614893\\AppData\\Roaming\\NuGet\\NuGet.Config",
