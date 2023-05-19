@@ -1,0 +1,15 @@
+C:\Users\gusta\OneDrive\Área de Trabalho\Produtos POO\bin\Debug\net7.0\Produtos POO.exe
+C:\Users\gusta\OneDrive\Área de Trabalho\Produtos POO\bin\Debug\net7.0\Produtos POO.deps.json
+C:\Users\gusta\OneDrive\Área de Trabalho\Produtos POO\bin\Debug\net7.0\Produtos POO.runtimeconfig.json
+C:\Users\gusta\OneDrive\Área de Trabalho\Produtos POO\bin\Debug\net7.0\Produtos POO.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Produtos POO\bin\Debug\net7.0\Produtos POO.pdb
+C:\Users\gusta\OneDrive\Área de Trabalho\Produtos POO\obj\Debug\net7.0\Produtos POO.csproj.AssemblyReference.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\Produtos POO\obj\Debug\net7.0\Produtos POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\OneDrive\Área de Trabalho\Produtos POO\obj\Debug\net7.0\Produtos POO.AssemblyInfoInputs.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\Produtos POO\obj\Debug\net7.0\Produtos POO.AssemblyInfo.cs
+C:\Users\gusta\OneDrive\Área de Trabalho\Produtos POO\obj\Debug\net7.0\Produtos POO.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\Produtos POO\obj\Debug\net7.0\Produtos POO.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Produtos POO\obj\Debug\net7.0\refint\Produtos POO.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Produtos POO\obj\Debug\net7.0\Produtos POO.pdb
+C:\Users\gusta\OneDrive\Área de Trabalho\Produtos POO\obj\Debug\net7.0\Produtos POO.genruntimeconfig.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\Produtos POO\obj\Debug\net7.0\ref\Produtos POO.dll
